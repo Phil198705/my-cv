@@ -1,5 +1,6 @@
- # ***Artur Filipau*** 
+  # ***Artur Filipau*** 
  ## Beginner Web Developer
+  ![alt me](https://sun9-65.userapi.com/impg/LkIwaR2dHEQ_I0uQZVjd-YfalZ63FJyuAyYSYA/2xhMHGBsooA.jpg?size=119x178&quality=96&sign=d4b03899a70558ed8b997beb5b9aa6bd&type=album)
  ## Contacts
  ***
    #### * Mobile +375292744991   
@@ -35,8 +36,8 @@
 ## Education
 ***
    #### * 2003-2007 Molodechno State Polytechnic College. Specialty: installation and operation of electrical equipment. 
-   ### * 2007-2013 Belarusian National Technical University. Specialty: Automated electric drives.   
-   ### * 2021 I started studying the preparatory course " JavaScript/Front-end. Stage 0 " at The Rolling Scopes School. 
+   #### * 2007-2013 Belarusian National Technical University. Specialty: Automated electric drives.   
+   #### * 2021 I started studying the preparatory course " JavaScript/Front-end. Stage 0 " at The Rolling Scopes School. 
  ## Language
  ***
  #### English - Elementary (A1)  
